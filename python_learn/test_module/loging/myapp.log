@@ -1,0 +1,3 @@
+Mon, 02 Jul 2018 17:04:14 test_loging03.py[line:44] DEBUG This is debug message
+Mon, 02 Jul 2018 17:04:14 test_loging03.py[line:45] INFO This is info message
+Mon, 02 Jul 2018 17:04:14 test_loging03.py[line:46] WARNING This is warning message
